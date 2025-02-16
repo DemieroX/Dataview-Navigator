@@ -16,6 +16,11 @@ I do not promise clean code, only one that works :D
 - In the code, specify the resource directory
 - Toggle ligt-dark mode (Optional)
 
+## Resource Notes
+Resources must have these properties in order to be used as data: "description", "link", "tags" and "color"
+
+![image](https://github.com/user-attachments/assets/b328daf9-73a6-48be-85ae-efe1592c746a)
+
 ### Optional Install (New Resource Creator Button)
 I have also created a Metabind button that creates a new resource note from a template.
 You can add this to your project if you don't want to setup your own template from scratch.
