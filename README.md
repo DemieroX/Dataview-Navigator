@@ -2,6 +2,7 @@
 A data note navigator for Obsidian using DataviewJS
 
 ![image](https://github.com/user-attachments/assets/6c0bc521-99ff-4faa-97b3-cea3081b7b1b)
+
 *The main navigator requires the **"Dataview"** plugin!*
 *New resource creator requires the **"Templater"** and **"Meta-Bind"** plugins!*
 
