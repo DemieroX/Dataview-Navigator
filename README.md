@@ -26,3 +26,6 @@ You can add this to your project if you don't want to setup your own template fr
 ## Recommendations
 - While light mode works, I still recommend dark mode with this navigator
 - Create a new folder for your resources, so it doesn't fill up unwanted space in your vault.
+
+## YouTube
+https://www.youtube.com/@Demiero1
